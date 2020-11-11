@@ -75,3 +75,10 @@
 #faq .card-header {
   background-color: #333333;
 }
+
+@media(max-width: 410px) {
+  #video-play h1,
+  #newslater h1 {
+    font-size: 1.5rem;
+  }
+}
